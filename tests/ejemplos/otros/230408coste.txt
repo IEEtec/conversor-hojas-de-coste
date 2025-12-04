@@ -1,0 +1,303 @@
+   Hoja de Coste Nº 230408
+
+ INSTALACIONES ELEC. EGARA, SL                                                                                      jueves, 20 de marzo de 2025
+
+      Cliente     230 AD-TECH IBERICA, SL                                  Responsable
+      Desde Fecha  20/03/2024      Hasta Fecha  20/03/2025                 Valoración Coste
+      Descripción 31088 PBOX TUNNEL 3M AS UV NOVO NORDISK
+                  Oferta nº 4144v1
+                  - ENTREGA DE CUADROS ELÉCTRICOS --> SEMANA 20 59& --> 21.906,69€
+                  - ENTREGA DE LOS ESQUEMAS ELÉCTRICOS --> SEMANA 23 4% --> 1.526,42€
+                  - ENTREGA DE LA PROGRAMACIÓN PLC & HMI --> SEMANA 24 15% --> 5.400,00€
+                  - AMPLIACIÓN TUNEL --> 2.000,00€
+
+_________________________________________________M A T E R I A L_________________________________________________
+Referencia       Descripción                              Fecha         Cantidad          Precio         Importe
+_________________________________________________________________________________________________________________
+                 PASAMUROS ICOTEK KEL-DPU 24/20 GRIS      09/10/2024       10,00          33,872          338,72
+CAB1,5LILA       CABLE LILA 1,5 CPR LH CCA                18/06/2024       40,00           0,152            6,08
+DAN131B0064      CONVERT. FRECUENCIA DANFOSS FC302 0,55KW 03/05/2024        2,00         585,640        1.171,28
+DAN131B0064      CONVERT. FRECUENCIA DANFOSS FC302 0,55KW 02/05/2024        1,00         585,640          585,64
+EDH061035BOX     CAJA DE 10 FUSIBLES DE CRISTAL 5x20mm 5A 20/05/2024        2,00           1,800            3,60
+EURAVA8415       PROLONGADOR SALZER METALICO SERIE-H      20/05/2024        1,00           7,460            7,46
+EURH23341400033M INT. PRINC./ PDA. EMERG. EMP. SALZER 4P  24/05/2024       -1,00          44,820          -44,82
+EURH23341400033M INT. PRINC./ PDA. EMERG. EMP. SALZER 4P  03/05/2024        1,00          44,820           44,82
+EURH23341400281M INTERRUPTOR EMERGENCIA PANEL SALZER 4P   20/05/2024        1,00          57,190           57,19
+LEG400405        REP. MOD. 4P 100A 4MOD.                  16/08/2024        2,00          20,981           41,96
+LEG400409        LEGRAND 400409 REP. MOD. 4P 125A 8MOD.   18/06/2024        1,00          35,925           35,93
+OMRG3RVST700DDC2 MOS FET 3A RELE BORNA+BASE TORNILLOS     16/07/2024       -6,00          20,975         -125,85
+OMRG3RVST700DDC2 MOS FET 3A RELE BORNA+BASE TORNILLOS     03/05/2024        6,00          20,975          125,85
+OMRMY2INGSDC24BY RELE ENCHUFABLE 8 CONTACTOS, DPDT, 5A    18/06/2024        6,00           4,297           25,78
+OMRMY2INGSDC24BY RELE ENCHUFABLE 8 CONTACTOS, DPDT, 5A    04/03/2025       -3,00           4,297          -12,89
+OMRMY4INGSRDC24  RELE, ENCHUFABLE, 14 CONTACTOS, 4PDT, 3A 01/10/2024       -3,00           4,687          -14,06
+OMRMY4INGSRDC24  RELE, ENCHUFABLE, 14 CONTACTOS, 4PDT, 3A 03/05/2024        3,00           4,687           14,06
+OMRPYF14PUBYOMB  BASE MY CARRIL DIN 14 PINES PALANCA DE   03/05/2024        3,00           3,633           10,90
+OMRPYF14PUBYOMB  BASE MY CARRIL DIN 14 PINES PALANCA DE   01/10/2024       -3,00           3,633          -10,90
+OMRPYFZ08EBYOMZ  CONECTOR HEMBRA, MONTAJE EN SUPERFICIE/  18/06/2024        6,00           2,524           15,14
+OMRPYFZ08EBYOMZ  CONECTOR HEMBRA, MONTAJE EN SUPERFICIE/  04/03/2025       -3,00           2,525           -7,58
+PHO0402174       BARRA COLECTORA DEL NEUTRO NLS-CU 3/10   08/05/2024       10,00          10,552          105,52
+PHO0828767       US-WMT (15x4) MARCADOR CR., TARJETA, BLA 25/09/2024       30,00           3,482          104,46
+PHO3022276       CLIPFIX 35-5 SOPORTE FINAL MONTAJE RAPID 25/09/2024       18,00           0,455            8,19
+PHO3022276       CLIPFIX 35-5 SOPORTE FINAL MONTAJE RAPID 03/05/2024       20,00           0,455            9,10
+PHO3025163       BORNE PARA CONEXION DE PANTALLA SK 8     08/05/2024       10,00           4,005           40,05
+PHO3025163       BORNE PARA CONEXION DE PANTALLA SK 8     25/11/2024      -10,00           4,005          -40,05
+PHO3025338       BORNE PARA CONEXION DE PANTALLA SK 5     25/11/2024      -12,00           3,485          -41,82
+PHO3025338       BORNE PARA CONEXION DE PANTALLA SK 5     08/05/2024       30,00           3,485          104,55
+PHO3026489       SOPORTE DE MONTAJE AB-SK 65              20/05/2024       20,00           2,827           56,54
+PHO3030417       D-ST 2,5 TAPA FINAL, L.:48.6MM, AN:2,2MM 25/09/2024       18,00           0,266            4,79
+PHO3030417       D-ST 2,5 TAPA FINAL, L.:48.6MM, AN:2,2MM 25/11/2024      -27,00           0,337           -9,10
+PHO3030417       D-ST 2,5 TAPA FINAL, L.:48.6MM, AN:2,2MM 03/05/2024       20,00           0,266            5,32
+PHO3036369       BORNE DE CARRIL PARA FUSIBLE ST 4-HESI   25/09/2024       -3,00           3,680          -11,04
+PHO3036369       BORNE DE CARRIL PARA FUSIBLE ST 4-HESI   20/05/2024       10,00           3,680           36,80
+PHO3044076       UT 2,5 BORNE PASO, TIPO CONEXION: CONEXI 25/09/2024       49,00           0,397           19,45
+PHO3044199       UT 16 BORNE PASO, TIPO CONEXION: CONEXIO 03/05/2024        3,00           0,781            2,34
+PHO3044209       BORNE DE PASO UT 16 BU                   03/05/2024        1,00           1,674            1,67
+PHO3044212       UT 16-PE BORNE DE TIERRA PARA CARRIL     03/05/2024        1,00           2,381            2,38
+PHO3047206       D-UT 16 TAPA FINAL                       18/06/2024        1,00           0,435            0,44
+PHO3113771       TAPA FINAL D-PIT 1,5/S-3L GY             25/11/2024      -27,00           0,410          -11,07
+PHO3113771       TAPA FINAL D-PIT 1,5/S-3L GY             08/05/2024       50,00           0,410           20,50
+
+                                                                                    Pág.     1
+   Hoja de Coste Nº 230408
+
+ INSTALACIONES ELEC. EGARA, SL                                                                                      jueves, 20 de marzo de 2025
+
+      Cliente     230 AD-TECH IBERICA, SL                                  Responsable
+      Desde Fecha  20/03/2024      Hasta Fecha  20/03/2025                 Valoración Coste
+      Descripción 31088 PBOX TUNNEL 3M AS UV NOVO NORDISK
+                  Oferta nº 4144v1
+                  - ENTREGA DE CUADROS ELÉCTRICOS --> SEMANA 20 59& --> 21.906,69€
+                  - ENTREGA DE LOS ESQUEMAS ELÉCTRICOS --> SEMANA 23 4% --> 1.526,42€
+                  - ENTREGA DE LA PROGRAMACIÓN PLC & HMI --> SEMANA 24 15% --> 5.400,00€
+                  - AMPLIACIÓN TUNEL --> 2.000,00€
+PHO3208100       BORNA CONEIXION PIT-1,5/S                03/05/2024       50,00           0,403           20,15
+PHO3208100       BORNA CONEIXION PIT-1,5/S                25/11/2024       -2,00           0,403           -0,81
+PHO3208127       BORNE PUSH-IN 0,14-1,5mm 3,5x30,5mm RD   25/11/2024      -25,00           0,603          -15,08
+PHO3208127       BORNE PUSH-IN 0,14-1,5mm 3,5x30,5mm RD   08/05/2024      100,00           0,569           56,90
+PHO3208142       TAPA FINAL D-PIT 1,5/S GY                08/05/2024       50,00           0,309           15,45
+PHO3208142       TAPA FINAL D-PIT 1,5/S GY                25/11/2024       -8,00           0,309           -2,47
+PHO3208579       TAPA FINAL D-PITTB 1,5/S GY              25/11/2024       -5,00           0,328           -1,64
+PHO3208579       TAPA FINAL D-PITTB 1,5/S GY              04/07/2024       50,00           0,359           17,95
+PHO3209510       BORNE PT 2,5  PASO, TIPO CONEXION:       25/11/2024       -5,00           0,443           -2,22
+PHO3209510       BORNE PT 2,5  PASO, TIPO CONEXION:       03/05/2024       50,00           0,335           16,75
+PHO3209523       BORNA CONEXION PIT 2,5 BU                08/05/2024       50,00           0,442           22,10
+PHO3209523       BORNA CONEXION PIT 2,5 BU                25/11/2024      -24,00           0,442          -10,61
+PHO3209536       PT 2,5-PE BORNE TIERRA P/CARRIL, TIPO    17/10/2024      -12,00           1,114          -13,37
+PHO3209536       PT 2,5-PE BORNE TIERRA P/CARRIL, TIPO    03/05/2024       50,00           1,114           55,70
+PHO3213056       PUENTE ENCHUFABLE FBS 10-3,5             08/05/2024       50,00           2,332          116,60
+PHO3213056       PUENTE ENCHUFABLE FBS 10-3,5             17/10/2024       -4,00           2,332           -9,33
+PHO3213056       PUENTE ENCHUFABLE FBS 10-3,5             25/11/2024       -4,00           2,332           -9,33
+PHO3213125       PUENTE ENCHUFABLE FBS 10-3,5 BU          25/11/2024       -4,00           2,484           -9,94
+PHO3213125       PUENTE ENCHUFABLE FBS 10-3,5 BU          17/10/2024       -4,00           2,484           -9,94
+PHO3213125       PUENTE ENCHUFABLE FBS 10-3,5 BU          06/05/2024       20,00           2,720           54,40
+PHO3213713       BORNE DE CARRIL PIT 1,5/S-3L             08/05/2024       50,00           2,014          100,70
+PHO3213713       BORNE DE CARRIL PIT 1,5/S-3L             25/11/2024      -18,00           2,014          -36,25
+POLPD2500        TRANSFORMADOR MONOFASICO SERIE P 115/230 15/05/2024        1,00         273,600          273,60
+RIT1536000       CAJA DE BORNES 400x300x120mm CHAPA DE    09/05/2024        1,00          83,280           83,28
+RIT1568800       PLACA DE MONTAJE KX 275x385mm PARA CAJAS 03/05/2024        1,00          12,935           12,94
+RIT1570800       PLACA DE MONTAJE KX 275x585mm PARA CAJAS 03/05/2024        1,00          20,390           20,39
+RIT1612000       CAJA BUS KX 600x300x155mm CHAPA DE ACERO 09/05/2024        1,00         187,165          187,17
+RIT2500420       CABLE CONEXION PARA ILUMINACION LED      14/10/2024       -1,00          46,452          -46,45
+RIT2500420       CABLE CONEXION PARA ILUMINACION LED      27/08/2024        1,00          46,452           46,45
+RIT2500460       INTERRUPTOR PUERTA SZ CABLE 600MM        27/08/2024       -1,00          49,375          -49,38
+RIT2500460       INTERRUPTOR PUERTA SZ CABLE 600MM        23/08/2024        1,00          49,375           49,38
+RIT2514000       PORTAESQUEMAS DIN A4 SZ                  03/05/2024        1,00           8,474            8,47
+RIT3110000       TERMOSTATO SK PARA INTERRUPTOR ARMARIO   03/05/2024        1,00          29,893           29,89
+RIT3240200       FILTRO SALIDA PARA 3240 3241 RAL7035     03/05/2024        1,00          32,215           32,22
+RIT3241100       VENTILADOR CON FILTRO 230mA3/H 230V      03/05/2024        1,00         136,953          136,95
+RIT4127010       INTERRUPTOR PUERTA CON PALANCA BASCULANT 03/05/2024        1,00          36,634           36,63
+RIT8080000       ARMARIO ENSAMBLABLE VX25 1000X1800X400   03/05/2024        1,00         875,570          875,57
+RIT8184245       LATERAL VX1800x400mm RAL 70352P          09/05/2024        1,00         128,479          128,48
+RIT8617010       JUEGO CHASIS EXTERIOR VX 18x64 400mm (4u 09/05/2024        1,00          41,846           41,85
+RIT8660005       PACK ZOCALO FRONTAL/TRASERO VX 1000x100m 03/05/2024        1,00          58,901           58,90
+RIT8660031       PACK LATERALES ZOCALO VX 100mm 400mm (2u 03/05/2024        1,00          24,736           24,74
+RITHD1305600     ARMARIO RITTAL HD1305.600 330x475mm      21/05/2024        2,00         512,520        1.025,04
+SEEGVAE11        CTO AUXILIAR FRONTAL TESYS GVAE 1NA/1NC  27/06/2024        1,00           9,908            9,91
+SEELAD9ET1S      PROTECTOR SEGURIDAD TESYS-E E 9A/65A     09/05/2024        2,00           5,980           11,96
+SEELC1D09BD      CONT 9A 1NA/1NC 24V CC-AR-ANTIP          03/05/2024        2,00          36,600           73,20
+SEELC1D09BD      CONT 9A 1NA/1NC 24V CC-AR-ANTIP          06/05/2024        1,00          36,600           36,60
+
+                                                                                    Pág.     2
+   Hoja de Coste Nº 230408
+
+ INSTALACIONES ELEC. EGARA, SL                                                                                      jueves, 20 de marzo de 2025
+
+      Cliente     230 AD-TECH IBERICA, SL                                  Responsable
+      Desde Fecha  20/03/2024      Hasta Fecha  20/03/2025                 Valoración Coste
+      Descripción 31088 PBOX TUNNEL 3M AS UV NOVO NORDISK
+                  Oferta nº 4144v1
+                  - ENTREGA DE CUADROS ELÉCTRICOS --> SEMANA 20 59& --> 21.906,69€
+                  - ENTREGA DE LOS ESQUEMAS ELÉCTRICOS --> SEMANA 23 4% --> 1.526,42€
+                  - ENTREGA DE LA PROGRAMACIÓN PLC & HMI --> SEMANA 24 15% --> 5.400,00€
+                  - AMPLIACIÓN TUNEL --> 2.000,00€
+SEELC1D25BD      CONT 25A 1NA/1NC 24V CC-AR-ANTIP         06/05/2024        2,00          62,070          124,14
+SEELUA1C20       CONTACTO AUXILIAR FALLO/ESTADO DISPOSITI 06/05/2024        3,00           6,388           19,16
+SEELUB12         BASE POTENCIA 12A                        06/05/2024        3,00          71,353          214,06
+SEELUCA12BL      UNIDAD ESTANDAR C10 TRIFASICA 3-12A 24V  09/05/2024        3,00          73,000          219,00
+SIE3SK11211AB40  SIRIUS RELE DE SEGURIDAD, UNIDAD BASE    03/05/2024        1,00         213,190          213,19
+SIE3SK12201AB40  SIRIUS RELE DE SEGURIDAD, MODULO DE      07/05/2024        1,00         127,650          127,65
+SIE3SU10010AB500 PULSADOR ILUMINADO, 22mm, REDONDO,       03/05/2024        2,00           6,194           12,39
+SIE3SU10011HB200 PULSADOR SETA PARA EMEG. ILUM. 22mm      03/05/2024        2,00          18,216           36,43
+SIE3SU14001AA103 MODULO DE CONTACTOS CON 1 CONTACTO, 1NC, 03/05/2024        4,00           2,742           10,97
+SIE3SU14001AA103 MODULO DE CONTACTOS CON 1 CONTACTO, 1NC, 03/05/2024        2,00           2,742            5,48
+SIE3SU14011BB601 SIE3SU14011BB601AA0 SIEMENS CAMARA LED   03/05/2024        2,00           3,944            7,89
+SIE3SU15500AA100 SOPORTE P/3MOD.METAL                     03/05/2024        4,00           2,211            8,84
+SIE3SU19000BC310 PLACA DE FONTO REDONDO, PARA PULSADOR    03/05/2024        2,00           4,339            8,68
+SIE3ZY12121BA00  SIRIUS ACCESORIOS 3SK1; ZOCALO DE CONEXI 28/05/2024        1,00          19,552           19,55
+SIE3ZY12122BA00  SIRIUS ACCESORIOS 3SK; ZOCALO DE CONEXIO 15/05/2024        1,00          15,642           15,64
+SIE3ZY12122DA00  SIRIUS ACCESORIOS 3SK; ZOCALO DE CONEXIO 28/05/2024        1,00          20,975           20,98
+SIE3ZY12122DA00  SIRIUS ACCESORIOS 3SK; ZOCALO DE CONEXIO 01/10/2024        1,00          20,975           20,98
+SIE3ZY12122DA00  SIRIUS ACCESORIOS 3SK; ZOCALO DE CONEXIO 17/10/2024       -1,00          20,980          -20,98
+SIE5SL42168      INTERRUPTOR AUTOMATICO, 70mm, ACCESORIAB 24/05/2024        1,00          38,328           38,33
+SIE5SL44108      INT. AUTOMATICO 70mm , ACCESORIABLE      16/05/2024        1,00          75,427           75,43
+SIE5SL62027      INT. AUTOMATICO 2P 2AMP "C" 6KA          03/05/2024        2,00          24,224           48,45
+SIE5SL62027      INT. AUTOMATICO 2P 2AMP "C" 6KA          17/10/2024       -1,00          24,225          -24,23
+SIE5SL62067      SIE 5SL6206-7 PIA 2P 6A 6/6KA C          25/11/2024       -1,00          17,150          -17,15
+SIE5SL62067      SIE 5SL6206-7 PIA 2P 6A 6/6KA C          03/05/2024        1,00          17,152           17,15
+SIE5SL64407      INT. AUTOMATICO 70mm, 6KA, "C", 4P 40A   16/05/2024        3,00          45,362          136,09
+SIE5SL66167      INTERRUPTOR AUTOMATICO 70mm, 6kA, CURVA  20/05/2024        1,00          39,870           39,87
+SIE5SU13541KK06  5SU1354-1KK06 PIA+DIF. 1P+N 6A 30mA AC C 25/09/2024        1,00         107,200          107,20
+SIE5SV46440      SIEMENS 5SV4644-0 DIF. 5SV,70mm, AC, 4P, 16/05/2024        1,00          85,149           85,15
+SIE5TE6800       SIEMENS 5TE6800 B. ENCHUFE 16A SUCKO     03/05/2024        1,00          19,665           19,67
+SIE6AV21240MC010 6AV2124-0MC01-0AX0 TP1200 COMFORT        03/05/2024        2,00       2.342,700        4.685,40
+SIE6EP33367SB003 SITOP PSU6200 24 V/20A, FUENTE DE        03/05/2024        1,00         192,771          192,77
+SIE6EP44377FB003 SITOP SEL 1200 10A, MODULO DE CORTE      03/05/2024        1,00          73,437           73,44
+SIE6ES71316BH010 SIMATIC ET 200, 1 MODULO ELECTRONICO DE  03/05/2024        2,00          74,015          148,03
+SIE6ES71326BH010 SIMATIC ET200, 1 MODULO ELECTRONICO DE   03/05/2024        1,00          85,939           85,94
+SIE6ES71346GF000 SIEMENS 6ES7134-6GF00-0AA1 AI8XI 2-4     03/05/2024        1,00         197,148          197,15
+SIE6ES71346HD010 SIMATIC ET 200, 1 MODULO ELECTRONICO DE  03/05/2024        1,00         149,128          149,13
+SIE6ES71346HD010 SIMATIC ET 200, 1 MODULO ELECTRONICO DE  18/02/2025       -1,00         149,910         -149,91
+SIE6ES71356HD000 SIMATIC ET200, 1 MODULO ELECTRONICO DE   03/05/2024        1,00         189,567          189,57
+SIE6ES71556AA010 SIMATIC ET200 IP20 ET200SP, MODULO DE    03/05/2024        1,00         257,812          257,81
+SIE6ES71936BP000 6ES7193-6BP00-0DA0 BU15-P16+A0+2D A0     03/05/2024        4,00          22,957           91,83
+SIE6ES71936BP000 6ES7193-6BP00-0DA0 BU15-P16+A0+2D A0     03/05/2024        2,00          13,015           26,03
+SIE6ES72141HG400 SIMATIC S7-1200, CPU 1214C               03/05/2024        1,00         327,479          327,48
+SIE6GK50080BA101 SIEMENS 6GK5008-0BA10-1AB2SCALANCE X     03/05/2024        1,00         114,743          114,74
+SIE6GK72431BX300 SIMATIC NET, CP 1243-1 PROCESADOR DE     03/05/2024        1,00         408,020          408,02
+TORN7380Z510     TORNILLO 7380 M-5x10 ZIN                 06/09/2024       49,00           0,036            1,76
+WAG221413        WAGO 221-413 BLOQUE PARA TERMINAL ELECTR 25/11/2024       -1,00          24,170          -24,17
+
+                                                                                    Pág.     3
+   Hoja de Coste Nº 230408
+
+ INSTALACIONES ELEC. EGARA, SL                                                                                      jueves, 20 de marzo de 2025
+
+      Cliente     230 AD-TECH IBERICA, SL                                  Responsable
+      Desde Fecha  20/03/2024      Hasta Fecha  20/03/2025                 Valoración Coste
+      Descripción 31088 PBOX TUNNEL 3M AS UV NOVO NORDISK
+                  Oferta nº 4144v1
+                  - ENTREGA DE CUADROS ELÉCTRICOS --> SEMANA 20 59& --> 21.906,69€
+                  - ENTREGA DE LOS ESQUEMAS ELÉCTRICOS --> SEMANA 23 4% --> 1.526,42€
+                  - ENTREGA DE LA PROGRAMACIÓN PLC & HMI --> SEMANA 24 15% --> 5.400,00€
+                  - AMPLIACIÓN TUNEL --> 2.000,00€
+WAG221413        WAGO 221-413 BLOQUE PARA TERMINAL ELECTR 20/05/2024        1,00          24,170           24,17
+                                                                     ___________                 _______________
+                                                                          818,00                       14.530,04
+
+_____________________________________________M A N O   D E   O B R A_____________________________________________
+Operación                     Fecha      Operario                        Cant.  Precio   Dietas Despl.    Importe
+_________________________________________________________________________________________________________________
+   1 ARMADO DE CUADRO DE DINA 20/08/2024  109 GARCIA RODRIGUEZ, KEVIN     3,00  25,000     0,00   0,00      75,00
+   1 AYUDAR CON CUADRO DINAMA 08/08/2024  101 GARCIA INFANTES, RAUL       1,50  25,000     0,00   0,00      37,50
+   1 CABELADO CUADRO ELECTRIC 19/06/2024   81 OLMO COFAN, ALEX            8,00  25,000     0,00   0,00     200,00
+   1 CABLEADO CUADRO DINAMARC 20/06/2024   81 OLMO COFAN, ALEX            4,00  25,000     0,00   0,00     100,00
+   1 CABLEADO CUADRO DINAMARC 26/06/2024   81 OLMO COFAN, ALEX            3,00  25,000     0,00   0,00      75,00
+   1 CABLEADO CUADRO DINAMARC 27/06/2024   81 OLMO COFAN, ALEX            6,00  25,000     0,00   0,00     150,00
+   1 CABLEAR CUADRO PERIFERIA 31/05/2024  101 GARCIA INFANTES, RAUL       1,50  25,000     0,00   0,00      37,50
+   1 CONECTAR CUADROS DE PERI 18/09/2024   81 OLMO COFAN, ALEX            6,00  25,000     0,00   0,00     150,00
+   1 CONEXIONADO Y TEST DE PU 19/09/2024   81 OLMO COFAN, ALEX            4,00  25,000     0,00   0,00     100,00
+   1 CORRECCION CUADRO ELECTR 13/08/2024   81 OLMO COFAN, ALEX            5,00  25,000     0,00   0,00     125,00
+   1 CUADRO ELECTRICO DINAMAR 21/06/2024   81 OLMO COFAN, ALEX            8,00  25,000     0,00   0,00     200,00
+   1 CUADRO TUNNEL            12/10/2024   89 PAU AGUILAR, JOSE           6,00  25,000     0,00   0,00     150,00
+   1 DIBUJO CUADROS PARA PALE 09/10/2024   96 RIVERA ARISTIZABAL, JORG    0,50  25,000     0,00   0,00      12,50
+   1 DISEÑO Y ESQUEMAS        02/04/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 DISEÑO Y ESQUEMAS        03/04/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 DISEÑO Y ESQUEMAS        04/04/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 DISEÑO Y ESQUEMAS        05/04/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 DISEÑO Y ESQUEMAS        09/04/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 DISEÑO Y ESQUEMAS        10/04/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 DISEÑO Y ESQUEMAS        11/04/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 DISEÑO Y ESQUEMAS        12/04/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 DISEÑO Y ESQUEMAS        18/04/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 DISTRIBUCION DE MATERIAL 08/05/2024   81 OLMO COFAN, ALEX            2,00  25,000     0,00   0,00      50,00
+   1 DOCUMENTACION CUADRO DIN 17/05/2024   81 OLMO COFAN, ALEX            1,00  25,000     0,00   0,00      25,00
+   1 ESQUEMAS CUADROS DINAMAR 22/05/2024   81 OLMO COFAN, ALEX            2,00  25,000     0,00   0,00      50,00
+   1 ESQUEMAS TUNEL DINAMARCA 21/05/2024   81 OLMO COFAN, ALEX            2,00  25,000     0,00   0,00      50,00
+   1 ETIQUETADO CUADRO DINAMA 14/08/2024   81 OLMO COFAN, ALEX            8,00  25,000     0,00   0,00     200,00
+   1 ETIQUETADO CUADRO DINAMA 19/08/2024   81 OLMO COFAN, ALEX            5,50  25,000     0,00   0,00     137,50
+   1 ETIQUETADO CUADRO DINAMA 20/08/2024   81 OLMO COFAN, ALEX            8,00  25,000     0,00   0,00     200,00
+   1 ETIQUETAS Y TERMINACION  27/08/2024   81 OLMO COFAN, ALEX            3,00  25,000     0,00   0,00      75,00
+   1 General                  08/01/2025   70 FERNANDEZ SOBRINO, ANGEL    0,50  25,000     0,00   0,00      12,50
+   1 General                  23/01/2025   70 FERNANDEZ SOBRINO, ANGEL    1,00  25,000     0,00   0,00      25,00
+   1 General                  22/04/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  25/04/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 GESTION COMPRA MATERIAL  11/04/2024   73 MANUEL VALL, RICARD         0,50  25,000     0,00   0,00      12,50
+   1 GESTION PROYECTOS TUNEL  24/10/2024    9 LÓPEZ NIETO, ALVARO         4,00  25,000     0,00   0,00     100,00
+   1 GESTION PROYECTOS TUNEL  25/10/2024    9 LÓPEZ NIETO, ALVARO         4,00  25,000     0,00   0,00     100,00
+   1 GESTION PROYECTOS TUNEL  28/10/2024    9 LÓPEZ NIETO, ALVARO         4,00  25,000     0,00   0,00     100,00
+   1 GESTION PROYECTOS TUNEL  29/10/2024    9 LÓPEZ NIETO, ALVARO         4,00  25,000     0,00   0,00     100,00
+
+                                                                                    Pág.     4
+   Hoja de Coste Nº 230408
+
+ INSTALACIONES ELEC. EGARA, SL                                                                                      jueves, 20 de marzo de 2025
+
+      Cliente     230 AD-TECH IBERICA, SL                                  Responsable
+      Desde Fecha  20/03/2024      Hasta Fecha  20/03/2025                 Valoración Coste
+      Descripción 31088 PBOX TUNNEL 3M AS UV NOVO NORDISK
+                  Oferta nº 4144v1
+                  - ENTREGA DE CUADROS ELÉCTRICOS --> SEMANA 20 59& --> 21.906,69€
+                  - ENTREGA DE LOS ESQUEMAS ELÉCTRICOS --> SEMANA 23 4% --> 1.526,42€
+                  - ENTREGA DE LA PROGRAMACIÓN PLC & HMI --> SEMANA 24 15% --> 5.400,00€
+                  - AMPLIACIÓN TUNEL --> 2.000,00€
+   1 HACER PEDIDO DE COMPRA A 18/04/2024   73 MANUEL VALL, RICARD         0,50  25,000     0,00   0,00      12,50
+   1 LISTADO Y DIGITALIZACION 12/08/2024  109 GARCIA RODRIGUEZ, KEVIN     5,00  25,000     0,00   0,00     125,00
+   1 LISTADO Y DIGITALIZACION 13/08/2024  109 GARCIA RODRIGUEZ, KEVIN     3,00  25,000     0,00   0,00      75,00
+   1 LISTADO Y REPASO DE MATE 26/04/2024   81 OLMO COFAN, ALEX            8,00  25,000     0,00   0,00     200,00
+   1 MECANIZADO CUADROS DINAM 23/05/2024   81 OLMO COFAN, ALEX            7,00  25,000     0,00   0,00     175,00
+   1 MECANIZADO DISTRIBUCION  07/05/2024   81 OLMO COFAN, ALEX            2,00  25,000     0,00   0,00      50,00
+   1 PROYECTO NOVONORDISK     20/05/2024    9 LÓPEZ NIETO, ALVARO         6,00  25,000     0,00   0,00     150,00
+   1 PROYECTO NOVONORDISK     21/05/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 PROYECTO NOVONORDISK     22/05/2024    9 LÓPEZ NIETO, ALVARO         3,00  25,000     0,00   0,00      75,00
+   1 PROYECTO NOVONORDISK     23/05/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 PROYECTO NOVONORDISK     24/05/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 PROYECTO NOVONORDISK     27/05/2024    9 LÓPEZ NIETO, ALVARO         4,00  25,000     0,00   0,00     100,00
+   1 PROYECTO NOVONORDISKGene 28/05/2024    9 LÓPEZ NIETO, ALVARO         5,00  25,000     0,00   0,00     125,00
+   1 PROYECTO TUNEL           19/09/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 PRUEBAS CUADRO DINAMARCA 11/10/2024  101 GARCIA INFANTES, RAUL       1,00  25,000     0,00   0,00      25,00
+   1 RECLAMAR A JOAN PERE CUA 19/04/2024   73 MANUEL VALL, RICARD         0,50  25,000     0,00   0,00      12,50
+   1 RECTIFICAR ESQUEMAS ELEC 31/10/2024   81 OLMO COFAN, ALEX            6,00  25,000     0,00   0,00     150,00
+   1 REVISION MATERIAL ALBIAN 25/04/2024   81 OLMO COFAN, ALEX            8,00  25,000     0,00   0,00     200,00
+   1 TEST DE PUNTOS CUADRO DI 20/09/2024   81 OLMO COFAN, ALEX            8,00  25,000     0,00   0,00     200,00
+   1 TEST DE PUNTOS CUADRO DI 23/09/2024   81 OLMO COFAN, ALEX            2,00  25,000     0,00   0,00      50,00
+   1 TUNNEL                   10/10/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 TUNNEL                   11/10/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 VERIFICAR MATERIAL CUADR 07/05/2024   96 RIVERA ARISTIZABAL, JORG    0,50  25,000     0,00   0,00      12,50
+                                                                    __________         ________ ______ __________
+                                                                        311,50             0,00   0,00   7.787,50
+
+                                                                        Total Hoja Coste..........      22.317,54
+
+                                                                        Total Presupuestado.......      30.833,11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                    Pág.     5

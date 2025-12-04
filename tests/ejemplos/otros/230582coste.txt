@@ -1,0 +1,366 @@
+   Hoja de Coste Nº 230582
+
+ INSTALACIONES ELEC. EGARA, SL                                                                                      jueves, 20 de marzo de 2025
+
+      Cliente     230 AD-TECH IBERICA, SL                                  Responsable
+      Desde Fecha  19/09/2024      Hasta Fecha  20/03/2025                 Valoración Coste
+      Descripción LIFTED NOVORDISK
+                  Pto. nº 4000290
+                  Cuadros eléctricos -->          36.573,00€
+                  Esquemas eléctricos -->         3.200,00€
+                  Programación PLC + HMI --> 6.400,00€
+
+_________________________________________________M A T E R I A L_________________________________________________
+Referencia       Descripción                              Fecha         Cantidad          Precio         Importe
+_________________________________________________________________________________________________________________
+CAB1,5NEGRO      TOXFREE ZH ES07Z1-K (AS) 1,5 NEG.        04/03/2025     -160,00           0,190          -30,40
+CAB1,5NEGRO      TOXFREE ZH ES07Z1-K (AS) 1,5 NEG.        31/01/2025      175,00           0,190           33,25
+CAB1,5ROJO       TOP-CABLE 151R001MR200 H07Z1-K 1,5mm     31/01/2025      134,00           0,184           24,66
+CAB1,5ROJO       TOP-CABLE 151R001MR200 H07Z1-K 1,5mm     04/03/2025     -115,00           0,184          -21,16
+CAB1LILA         CABLECILLO H05Z1-K 1mm VIOLETA/LILA      06/02/2025      200,00           0,240           48,00
+CAB1ROJO         TOP-CABLE 131R001.R200 H05V-K 1mm ROJO   03/02/2025      100,00           0,163           16,30
+CAB1ROJO         TOP-CABLE 131R001.R200 H05V-K 1mm ROJO   04/03/2025      -70,00           0,163          -11,41
+CARRILDIN35X75ZP MTS PERFIL TS35X7,5 PERFORAD             31/01/2025        8,00           2,390           19,12
+EURAVA8415       PROLONGADOR SALZER METALICO SERIE-H      25/11/2024        1,00           8,100            8,10
+EURB26341400281M INTERRUPTOR EMERENGIA PANEL SALZER 4P    25/11/2024        1,00          80,280           80,28
+INT20115         INTERFLEX 201/15 1000MANGUITOS 15MM      10/02/2025        1,00          24,212           24,21
+INT20115         INTERFLEX 201/15 1000MANGUITOS 15MM      04/03/2025       -0,90           4,297           -3,87
+MEWSDR96048      FUENTE ALIMENTACION MEANWWELL SDR-960-48 20/01/2025        2,00         263,240          526,48
+OMRS8VKG24024    FUENTE DE ALIMENTACION 240W/24V/10A      25/11/2024        2,00          83,330          166,66
+PHO0804024       PHO0804024 ARA ENCHUFABLE TIPO CF        25/11/2024        1,00           5,700            5,70
+PHO0818108       MARCADOR PARA BORNES UC-TM 5             02/12/2024       10,00           4,669           46,69
+PHO0828734       UCT-TM 5 MARCD. P. BORNES, ESTERA, BLC,  04/03/2025      -17,00           4,675          -79,48
+PHO0828734       UCT-TM 5 MARCD. P. BORNES, ESTERA, BLC,  04/02/2025       20,00           4,675           93,50
+PHO0829484       MARCADOR PARA BORNES UCT-TM 3,5          04/03/2025       -5,00           4,510          -22,55
+PHO0829484       MARCADOR PARA BORNES UCT-TM 3,5          23/12/2024       10,00           4,510           45,10
+PHO0829486       MARCADOR PARA BORNES UCT-TMF 3,5         02/12/2024       10,00           4,061           40,61
+PHO3022276       CLIPFIX 35-5 SOPORTE FINAL MONTAJE RAPID 25/11/2024       50,00           0,455           22,75
+PHO3022276       CLIPFIX 35-5 SOPORTE FINAL MONTAJE RAPID 04/03/2025      -12,00           0,455           -5,46
+PHO3025163       BORNE PARA CONEXION DE PANTALLA SK 8     04/03/2025      -10,00           4,005          -40,05
+PHO3025163       BORNE PARA CONEXION DE PANTALLA SK 8     25/11/2024       10,00           4,005           40,05
+PHO3025338       BORNE PARA CONEXION DE PANTALLA SK 5     25/11/2024       12,00           3,485           41,82
+PHO3025338       BORNE PARA CONEXION DE PANTALLA SK 5     04/03/2025       -6,00           3,485          -20,91
+PHO3030213       PUENTE ENCHUFABLE FBS 10-5               04/03/2025       -7,00           2,230          -15,61
+PHO3030213       PUENTE ENCHUFABLE FBS 10-5               25/11/2024       10,00           2,230           22,30
+PHO3030417       D-ST 2,5 TAPA FINAL, L.:48.6MM, AN:2,2MM 25/11/2024       20,00           0,266            5,32
+PHO3030417       D-ST 2,5 TAPA FINAL, L.:48.6MM, AN:2,2MM 25/11/2024       27,00           0,337            9,10
+PHO3030417       D-ST 2,5 TAPA FINAL, L.:48.6MM, AN:2,2MM 04/02/2025       50,00           0,337           16,85
+PHO3030417       D-ST 2,5 TAPA FINAL, L.:48.6MM, AN:2,2MM 04/03/2025      -50,00           0,337          -16,85
+PHO3036369       BORNE DE CARRIL PARA FUSIBLE ST 4-HESI   20/01/2025       10,00           3,820           38,20
+PHO3036916       PUNETE ENCHUFABLE FBS 10-5 BU            02/12/2024       10,00           2,310           23,10
+PHO3036916       PUNETE ENCHUFABLE FBS 10-5 BU            04/03/2025       -8,00           2,310          -18,48
+PHO3044225       UT 35 BORNE P.TENS.NOM: 1000V, CORR.NOM: 20/01/2025        1,00           3,580            3,58
+PHO3044241       UT 35-PE BORNE TIERRA P/ CARRIL , TIPO   20/01/2025        1,00           5,270            5,27
+PHO3113771       TAPA FINAL D-PIT 1,5/S-3L GY             02/12/2024       50,00           0,410           20,50
+PHO3113771       TAPA FINAL D-PIT 1,5/S-3L GY             25/11/2024       27,00           0,410           11,07
+PHO3113771       TAPA FINAL D-PIT 1,5/S-3L GY             04/03/2025      -45,00           0,410          -18,45
+PHO3208100       BORNA CONEIXION PIT-1,5/S                25/11/2024        2,00           0,403            0,81
+PHO3208100       BORNA CONEIXION PIT-1,5/S                04/03/2025       -5,00           0,403           -2,02
+
+                                                                                    Pág.     1
+   Hoja de Coste Nº 230582
+
+ INSTALACIONES ELEC. EGARA, SL                                                                                      jueves, 20 de marzo de 2025
+
+      Cliente     230 AD-TECH IBERICA, SL                                  Responsable
+      Desde Fecha  19/09/2024      Hasta Fecha  20/03/2025                 Valoración Coste
+      Descripción LIFTED NOVORDISK
+                  Pto. nº 4000290
+                  Cuadros eléctricos -->          36.573,00€
+                  Esquemas eléctricos -->         3.200,00€
+                  Programación PLC + HMI --> 6.400,00€
+PHO3208100       BORNA CONEIXION PIT-1,5/S                25/11/2024       50,00           0,403           20,15
+PHO3208127       BORNE PUSH-IN 0,14-1,5mm 3,5x30,5mm RD   02/12/2024       50,00           0,569           28,45
+PHO3208127       BORNE PUSH-IN 0,14-1,5mm 3,5x30,5mm RD   04/03/2025      -50,00           0,603          -30,15
+PHO3208127       BORNE PUSH-IN 0,14-1,5mm 3,5x30,5mm RD   25/11/2024       25,00           0,603           15,08
+PHO3208127       BORNE PUSH-IN 0,14-1,5mm 3,5x30,5mm RD   12/02/2025       50,00           0,603           30,15
+PHO3208142       TAPA FINAL D-PIT 1,5/S GY                04/03/2025      -84,00           0,309          -25,96
+PHO3208142       TAPA FINAL D-PIT 1,5/S GY                25/11/2024        8,00           0,309            2,47
+PHO3208142       TAPA FINAL D-PIT 1,5/S GY                11/12/2024       50,00           0,309           15,45
+PHO3208511       BORNE DE DOBLE PISO PTTB 1,5/S           02/12/2024       50,00           1,031           51,55
+PHO3208511       BORNE DE DOBLE PISO PTTB 1,5/S           04/03/2025      -18,00           1,031          -18,56
+PHO3208579       TAPA FINAL D-PITTB 1,5/S GY              04/03/2025      -89,00           0,328          -29,19
+PHO3208579       TAPA FINAL D-PITTB 1,5/S GY              25/11/2024        5,00           0,328            1,64
+PHO3208579       TAPA FINAL D-PITTB 1,5/S GY              02/12/2024       50,00           0,328           16,40
+PHO3209510       BORNE PT 2,5  PASO, TIPO CONEXION:       25/11/2024       50,00           0,335           16,75
+PHO3209510       BORNE PT 2,5  PASO, TIPO CONEXION:       25/11/2024        5,00           0,443            2,22
+PHO3209510       BORNE PT 2,5  PASO, TIPO CONEXION:       04/03/2025      -59,00           0,443          -26,14
+PHO3209510       BORNE PT 2,5  PASO, TIPO CONEXION:       04/02/2025       50,00           0,443           22,15
+PHO3209523       BORNA CONEXION PIT 2,5 BU                04/03/2025      -50,00           0,442          -22,10
+PHO3209523       BORNA CONEXION PIT 2,5 BU                25/11/2024       24,00           0,442           10,61
+PHO3209523       BORNA CONEXION PIT 2,5 BU                25/11/2024       49,00           0,442           21,66
+PHO3209536       PT 2,5-PE BORNE TIERRA P/CARRIL, TIPO    04/03/2025      -20,00           1,114          -22,28
+PHO3211813       PT 6 BORNE PASO, TIPO CONEXION:          04/03/2025       -3,00           0,981           -2,94
+PHO3211813       PT 6 BORNE PASO, TIPO CONEXION:          05/02/2025       12,00           0,981           11,77
+PHO3211813       PT 6 BORNE PASO, TIPO CONEXION:          21/01/2025       12,00           1,260           15,12
+PHO3211822       PT 6-PE BRONE TIERRA P/ CARRIL, TIPO CON 21/01/2025        5,00           3,120           15,60
+PHO3211822       PT 6-PE BRONE TIERRA P/ CARRIL, TIPO CON 04/02/2025        4,00           2,097            8,39
+PHO3212044       D-PT TAPA FINAL, L.:57,7MM, AN.:2,2MM    04/02/2025        4,00           0,239            0,96
+PHO3212044       D-PT TAPA FINAL, L.:57,7MM, AN.:2,2MM    21/01/2025        5,00           0,360            1,80
+PHO3213056       PUENTE ENCHUFABLE FBS 10-3,5             02/12/2024       50,00           2,332          116,60
+PHO3213056       PUENTE ENCHUFABLE FBS 10-3,5             04/03/2025      -67,00           2,332         -156,24
+PHO3213056       PUENTE ENCHUFABLE FBS 10-3,5             25/11/2024        4,00           2,332            9,33
+PHO3213125       PUENTE ENCHUFABLE FBS 10-3,5 BU          25/11/2024        4,00           2,484            9,94
+PHO3213125       PUENTE ENCHUFABLE FBS 10-3,5 BU          04/03/2025      -51,00           2,484         -126,68
+PHO3213125       PUENTE ENCHUFABLE FBS 10-3,5 BU          02/12/2024       50,00           2,484          124,20
+PHO3213713       BORNE DE CARRIL PIT 1,5/S-3L             02/12/2024       50,00           2,014          100,70
+PHO3213713       BORNE DE CARRIL PIT 1,5/S-3L             25/11/2024       18,00           2,014           36,25
+PHO3213713       BORNE DE CARRIL PIT 1,5/S-3L             04/03/2025      -36,00           2,014          -72,50
+PORTES           PORTES                                   12/02/2025        1,00          36,000           36,00
+PUNTERAH0,75CELE WEIDMULLER PUNTERAH-0.75/14T             10/02/2025      500,00           0,008            4,00
+PUNTERAH1ROJO    WEIDMULLER 9019420000 PUNTERA H-1/14D    10/02/2025    1.000,00           0,008            8,00
+PUNTERAH1ROJO    WEIDMULLER 9019420000 PUNTERA H-1/14D    04/03/2025     -600,00           0,008           -4,80
+RIT1305600       HD ARMARIO COMPACTO INOX 390X550X210, 1P 19/12/2024        2,00         512,520        1.025,04
+RIT2500110       SZ LUNINARIA LED 600,100-240V, 1P        02/12/2024        1,00          75,930           75,93
+RIT2500420       CABLE CONEXION PARA ILUMINACION LED      02/12/2024        1,00          36,040           36,04
+RIT2500460       INTERRUPTOR PUERTA SZ CABLE 600MM        25/11/2024        1,00          38,310           38,31
+RIT2514000       PORTAESQUEMAS DIN A4 SZ                  25/11/2024        1,00           8,474            8,47
+RIT3110000       TERMOSTATO SK PARA INTERRUPTOR ARMARIO   25/11/2024        1,00          29,893           29,89
+
+                                                                                    Pág.     2
+   Hoja de Coste Nº 230582
+
+ INSTALACIONES ELEC. EGARA, SL                                                                                      jueves, 20 de marzo de 2025
+
+      Cliente     230 AD-TECH IBERICA, SL                                  Responsable
+      Desde Fecha  19/09/2024      Hasta Fecha  20/03/2025                 Valoración Coste
+      Descripción LIFTED NOVORDISK
+                  Pto. nº 4000290
+                  Cuadros eléctricos -->          36.573,00€
+                  Esquemas eléctricos -->         3.200,00€
+                  Programación PLC + HMI --> 6.400,00€
+RIT3240200       FILTRO SALIDA PARA 3240 3241 RAL7035     02/12/2024        1,00          32,215           32,22
+RIT3241100       VENTILADOR CON FILTRO 230mA3/H 230V      02/12/2024        1,00         136,953          136,95
+RIT4127010       INTERRUPTOR PUERTA CON PALANCA BASCULANT 25/11/2024        1,00          36,634           36,63
+RIT8080000       ARMARIO ENSAMBLABLE VX25 1000X1800X400   03/12/2024        1,00         909,970          909,97
+RIT8184245       LATERAL VX1800x400mm RAL 70352P          03/12/2024        1,00         128,479          128,48
+RIT8617010       JUEGO CHASIS EXTERIOR VX 18x64 400mm (4u 03/12/2024        1,00          41,846           41,85
+RIT8660005       PACK ZOCALO FRONTAL/TRASERO VX 1000x100m 03/12/2024        1,00          58,901           58,90
+RIT8660031       PACK LATERALES ZOCALO VX 100mm 400mm (2u 03/12/2024        1,00          24,736           24,74
+SEE28900         INTERPACT. INS40 3P                      20/01/2025        1,00          51,016           51,02
+SEELAD9ET1S      PROTECTOR SEGURIDAD TESYS-E E 9A/65A     04/12/2024        2,00           2,596            5,19
+SEELC1D25BD      CONT 25A 1NA/1NC 24V CC-AR-ANTIP         04/12/2024        1,00          62,070           62,07
+SEELC1D40ABBE    CONTACTOR TESYS-D 3P AC-3 40A 24V DC     22/01/2025        1,00         249,250          249,25
+SEELC1D40BD      CONT 40A 1NA 1NC 24V CC AR ANTIP         04/12/2024        1,00         229,250          229,25
+SEELUA1C20       CONTACTO AUXILIAR FALLO/ESTADO DISPOSITI 04/12/2024        3,00           6,388           19,16
+SEELUB12         BASE POTENCIA 12A                        04/12/2024        3,00          71,353          214,06
+SEELUCA12BL      UNIDAD ESTANDAR C10 TRIFASICA 3-12A 24V  04/12/2024        3,00          73,000          219,00
+SEENSYMM86       SCHNEIDER NSYMM86 PLACA METALICA 800x600 06/02/2025        1,00          72,715           72,72
+SEENSYMM86       SCHNEIDER NSYMM86 PLACA METALICA 800x600 31/01/2025        1,00          72,715           72,72
+SIE3SK11211AB40  SIRIUS RELE DE SEGURIDAD, UNIDAD BASE    25/11/2024        2,00         218,520          437,04
+SIE3SK11211AB40  SIRIUS RELE DE SEGURIDAD, UNIDAD BASE    14/03/2025       -2,00         218,520         -437,04
+SIE3SU10000AB100 Y19 CIN20241204193804130383 PULS. FLECHA 23/12/2024        2,00           6,080           12,16
+SIE3SU10000AB100 Y19 CIN20241204193804130383 PULS. FLECHA 23/12/2024        2,00           6,080           12,16
+SIE3SU10010AB500 PULSADOR ILUMINADO, 22mm, REDONDO,       25/11/2024        2,00           6,349           12,70
+SIE3SU10011HB200 PULSADOR SETA PARA EMEG. ILUM. 22mm      25/11/2024        2,00          18,671           37,34
+SIE3SU14001AA103 MODULO DE CONTACTOS CON 1 CONTACTO, 1NC, 25/11/2024        6,00           2,812           16,87
+SIE3SU14001AA103 MODULO DE CONTACTOS CON 1 CONTACTO, 1NC, 25/11/2024        4,00           2,812           11,25
+SIE3SU14011BB601 SIE3SU14011BB601AA0 SIEMENS CAMARA LED   25/11/2024        2,00           4,042            8,08
+SIE3SU15500AA100 SOPORTE P/3MOD.METAL                     25/11/2024        8,00           2,267           18,14
+SIE3SU19000BC310 PLACA DE FONTO REDONDO, PARA PULSADOR    25/11/2024        2,00           4,448            8,90
+SIE5SL42168      INTERRUPTOR AUTOMATICO, 70mm, ACCESORIAB 05/12/2024        1,00          39,286           39,29
+SIE5SL63167      SIEMENS 5SL6316-7 PIA 3P 16A 6/6kA C     25/11/2024        1,00          25,315           25,32
+SIE5SL66257      INTERRUPTOR AUTOMATICO 70mm 6KA CURVA C  25/11/2024        1,00          34,838           34,84
+SIE5SL66407      INTERRUPTOR AUTOMATICO 70mm 6KA CURVA C  05/12/2024        1,00          43,018           43,02
+SIE5SL66637      INTERRUPTOR AUTOMATICO 70mm 6KA CURVA C  25/11/2024        1,00          96,702           96,70
+SIE5SU13531KK06  DIFERENCIAL COMBI 1P+N 30mA/4500         05/12/2024        1,00          74,120           74,12
+SIE5SV46460      INTERRUPTOR DIFERENCIAL 5SV, 70m, CLASE  25/11/2024        1,00         115,621          115,62
+SIE6AV21240MC010 6AV2124-0MC01-0AX0 TP1200 COMFORT        04/12/2024        2,00       2.342,700        4.685,40
+SIE6EP44377FB003 SITOP SEL 1200 10A, MODULO DE CORTE      25/11/2024        1,00          74,682           74,68
+SIE6ES71316BF010 SIMATIC ET200SP, MODULO DE ENTRADAS DIGI 31/01/2025        2,00          44,651           89,30
+SIE6ES71316BH010 SIMATIC ET 200, 1 MODULO ELECTRONICO DE  31/01/2025        1,00          75,827           75,83
+SIE6ES71326BF010 SIEMENS 6ES7132-6BF01-0AA0 DQ8X24VDC/    31/01/2025        3,00          57,289          171,87
+SIE6ES71346FF000 SIEMENS 6ES7134-6FF00-0AA1 AI8xU BA      31/01/2025        2,00         202,205          404,41
+SIE6ES71356HD000 SIMATIC ET200, 1 MODULO ELECTRONICO DE   31/01/2025        2,00         194,623          389,25
+SIE6ES71366BA010 SIMATIC DP, MODULO ELECTRONICO PARA      31/01/2025        5,00         192,092          960,46
+SIE6ES71366DC000 SIMATIC ET200, 1 MODULO ELECTRONICO DE   31/01/2025        1,00         247,700          247,70
+SIE6ES71556AU010 SIMATIC ET200, MODULO DE INTERFAZ PROFIN 31/01/2025        2,00         233,723          467,45
+SIE6ES71936AR000 SIMATIC ET200, ADAPTADOR DE BUS BA2xRJ45 31/01/2025        2,00          48,864           97,73
+
+                                                                                    Pág.     3
+   Hoja de Coste Nº 230582
+
+ INSTALACIONES ELEC. EGARA, SL                                                                                      jueves, 20 de marzo de 2025
+
+      Cliente     230 AD-TECH IBERICA, SL                                  Responsable
+      Desde Fecha  19/09/2024      Hasta Fecha  20/03/2025                 Valoración Coste
+      Descripción LIFTED NOVORDISK
+                  Pto. nº 4000290
+                  Cuadros eléctricos -->          36.573,00€
+                  Esquemas eléctricos -->         3.200,00€
+                  Programación PLC + HMI --> 6.400,00€
+SIE6ES71936BP000 6ES7193-6BP00-0DA0 BU15-P16+A0+2B A0     31/01/2025        2,00          13,481           26,96
+SIE6ES71936BP000 6ES7193-6BP00-0DA0 BU15-P16+A0+2B A0     31/01/2025        6,00          13,481           80,89
+SIE6ES71936BP000 6ES7193-6BP00-0DA0 BU15-P16+A0+2D A0     31/01/2025        2,00          23,588           47,18
+SIE6ES71936BP000 6ES7193-6BP00-0DA0 BU15-P16+A0+2D A0     31/01/2025        6,00          23,588          141,53
+SIE6ES72141HG400 SIMATIC S7-1200, CPU 1214C               25/11/2024        1,00         327,479          327,48
+SIE6ES72141HG400 SIMATIC S7-1200, CPU 1214C               14/03/2025       -1,00         327,479         -327,48
+SIE6ES75101SJ010 SIMATIC S7-1500F, CPU 1510SP F-1 PN PARA 31/01/2025        1,00         755,842          755,84
+SIE6ES79548LE040 SIMATIC S7, MEMORY CARD PARA S7-1x00 CP/ 31/01/2025        1,00         140,385          140,39
+SIE6GK19011BB102 SIMATIC NET IE FC RJ45 PLUG 180 CONECTOR 10/02/2025        4,00          14,510           58,04
+UNX806077        MTS CANAL 80X60 GRIS                     31/01/2025        8,00           5,902           47,22
+WEI1240840000    SWITCH DE RED NO GESTIONADO IE-SW        31/01/2025        3,00          63,420          190,26
+                                                                     ___________                 _______________
+                                                                        1.677,10                       14.845,22
+
+_____________________________________________M A N O   D E   O B R A_____________________________________________
+Operación                     Fecha      Operario                        Cant.  Precio   Dietas Despl.    Importe
+_________________________________________________________________________________________________________________
+   1 COLABORACION CON ALVARO  20/11/2024   96 RIVERA ARISTIZABAL, JORG    1,00  25,000     0,00   0,00      25,00
+   1 ESQUEMAS LIFTED          11/11/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 ESQUEMAS NOVO NORDISK RE 30/10/2024   81 OLMO COFAN, ALEX            5,00  25,000     0,00   0,00     125,00
+   1 ETIQUETADO CUADRO LIFTED 06/02/2025   81 OLMO COFAN, ALEX            5,00  25,000     0,00   0,00     125,00
+   1 ETIQUETADO CUADRO NOVONO 10/02/2025   81 OLMO COFAN, ALEX            3,00  25,000     0,00   0,00      75,00
+   1 ETIQUETADO CUADROS NOVON 07/02/2025   81 OLMO COFAN, ALEX            8,00  25,000     0,00   0,00     200,00
+   1 General                  05/03/2025   70 FERNANDEZ SOBRINO, ANGEL    5,00  25,000     0,00   0,00     125,00
+   1 General                  07/03/2025   70 FERNANDEZ SOBRINO, ANGEL    9,00  25,000     0,00   0,00     225,00
+   1 General                  19/12/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  20/12/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  23/12/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  24/12/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  27/12/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  30/12/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  31/12/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  07/01/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  08/01/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  09/01/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  10/01/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  13/01/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  14/01/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  15/01/2025    9 LÓPEZ NIETO, ALVARO         6,00  25,000     0,00   0,00     150,00
+   1 General                  16/01/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  17/01/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  20/01/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  21/01/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  22/01/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  23/01/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  24/01/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  27/01/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+
+                                                                                    Pág.     4
+   Hoja de Coste Nº 230582
+
+ INSTALACIONES ELEC. EGARA, SL                                                                                      jueves, 20 de marzo de 2025
+
+      Cliente     230 AD-TECH IBERICA, SL                                  Responsable
+      Desde Fecha  19/09/2024      Hasta Fecha  20/03/2025                 Valoración Coste
+      Descripción LIFTED NOVORDISK
+                  Pto. nº 4000290
+                  Cuadros eléctricos -->          36.573,00€
+                  Esquemas eléctricos -->         3.200,00€
+                  Programación PLC + HMI --> 6.400,00€
+   1 General                  28/01/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  29/01/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  30/01/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  31/01/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  03/02/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  04/02/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  05/02/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  06/02/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  07/02/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  10/02/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  08/01/2025   70 FERNANDEZ SOBRINO, ANGEL    2,00  25,000     0,00   0,00      50,00
+   1 General                  09/01/2025   70 FERNANDEZ SOBRINO, ANGEL    1,50  25,000     0,00   0,00      37,50
+   1 General                  13/01/2025   70 FERNANDEZ SOBRINO, ANGEL    3,00  25,000     0,00   0,00      75,00
+   1 General                  14/01/2025   70 FERNANDEZ SOBRINO, ANGEL    3,50  25,000     0,00   0,00      87,50
+   1 General                  15/01/2025   70 FERNANDEZ SOBRINO, ANGEL    1,00  25,000     0,00   0,00      25,00
+   1 General                  16/01/2025   70 FERNANDEZ SOBRINO, ANGEL    4,00  25,000     0,00   0,00     100,00
+   1 General                  17/01/2025   70 FERNANDEZ SOBRINO, ANGEL    5,00  25,000     0,00   0,00     125,00
+   1 General                  21/01/2025   70 FERNANDEZ SOBRINO, ANGEL    5,00  25,000     0,00   0,00     125,00
+   1 General                  27/01/2025   70 FERNANDEZ SOBRINO, ANGEL    4,00  25,000     0,00   0,00     100,00
+   1 General                  28/01/2025   70 FERNANDEZ SOBRINO, ANGEL    3,75  25,000     0,00   0,00      93,75
+   1 General                  29/01/2025   70 FERNANDEZ SOBRINO, ANGEL    8,00  25,000     0,00   0,00     200,00
+   1 General                  03/02/2025   70 FERNANDEZ SOBRINO, ANGEL    5,00  25,000     0,00   0,00     125,00
+   1 General                  04/02/2025   70 FERNANDEZ SOBRINO, ANGEL    1,25  25,000     0,00   0,00      31,25
+   1 General                  06/02/2025   70 FERNANDEZ SOBRINO, ANGEL    4,25  25,000     0,00   0,00     106,25
+   1 General                  07/02/2025   70 FERNANDEZ SOBRINO, ANGEL    3,50  25,000     0,00   0,00      87,50
+   1 General                  10/02/2025   70 FERNANDEZ SOBRINO, ANGEL    6,00  25,000     0,00   0,00     150,00
+   1 General                  13/02/2025   70 FERNANDEZ SOBRINO, ANGEL    3,50  25,000     0,00   0,00      87,50
+   1 General                  20/02/2025   70 FERNANDEZ SOBRINO, ANGEL   10,75  25,000     0,00   0,00     268,75
+   1 General                  25/02/2025   70 FERNANDEZ SOBRINO, ANGEL   11,50  25,000     0,00   0,00     287,50
+   1 General                  26/02/2025   70 FERNANDEZ SOBRINO, ANGEL   12,00  25,000     0,00   0,00     300,00
+   1 General                  27/02/2025   70 FERNANDEZ SOBRINO, ANGEL   12,25  25,000     0,00   0,00     306,25
+   1 General                  28/02/2025   70 FERNANDEZ SOBRINO, ANGEL   11,75  25,000     0,00   0,00     293,75
+   1 General                  01/03/2025   70 FERNANDEZ SOBRINO, ANGEL    5,00  25,000     0,00   0,00     125,00
+   1 General                  04/03/2025   70 FERNANDEZ SOBRINO, ANGEL    7,00  25,000     0,00   0,00     175,00
+   1 General                  14/02/2025   70 FERNANDEZ SOBRINO, ANGEL    5,00  25,000     0,00   0,00     125,00
+   1 General                  17/02/2025   70 FERNANDEZ SOBRINO, ANGEL    6,00  25,000     0,00   0,00     150,00
+   1 General                  18/02/2025   70 FERNANDEZ SOBRINO, ANGEL    6,00  25,000     0,00   0,00     150,00
+   1 General                  19/02/2025   70 FERNANDEZ SOBRINO, ANGEL    6,00  25,000     0,00   0,00     150,00
+   1 General                  24/02/2025   70 FERNANDEZ SOBRINO, ANGEL   10,00  25,000     0,00   0,00     250,00
+   1 General                  11/02/2025   70 FERNANDEZ SOBRINO, ANGEL    6,00  25,000     0,00   0,00     150,00
+   1 General                  12/02/2025   70 FERNANDEZ SOBRINO, ANGEL    6,00  25,000     0,00   0,00     150,00
+   1 GESTION HOJA DE NECESIDA 15/11/2024  105 ARENAS GRAJALES, DIEGO A    0,50  25,000     0,00   0,00      12,50
+   1 GESTION PROYECTOS TUNEL  24/10/2024    9 LÓPEZ NIETO, ALVARO         4,00  25,000     0,00   0,00     100,00
+   1 GESTION PROYECTOS TUNEL  25/10/2024    9 LÓPEZ NIETO, ALVARO         4,00  25,000     0,00   0,00     100,00
+   1 GESTION PROYECTOS TUNEL  28/10/2024    9 LÓPEZ NIETO, ALVARO         4,00  25,000     0,00   0,00     100,00
+   1 GESTION PROYECTOS TUNEL  29/10/2024    9 LÓPEZ NIETO, ALVARO         4,00  25,000     0,00   0,00     100,00
+   1 PROYECTO LIFTED          20/09/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+
+                                                                                    Pág.     5
+   Hoja de Coste Nº 230582
+
+ INSTALACIONES ELEC. EGARA, SL                                                                                      jueves, 20 de marzo de 2025
+
+      Cliente     230 AD-TECH IBERICA, SL                                  Responsable
+      Desde Fecha  19/09/2024      Hasta Fecha  20/03/2025                 Valoración Coste
+      Descripción LIFTED NOVORDISK
+                  Pto. nº 4000290
+                  Cuadros eléctricos -->          36.573,00€
+                  Esquemas eléctricos -->         3.200,00€
+                  Programación PLC + HMI --> 6.400,00€
+   1 PROYECTO LIFTED          13/11/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 PROYECTO LIFTED          14/11/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 PROYECTO LIFTED          15/11/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 PROYECTO LIFTED          18/11/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 PROYECTO LIFTED          19/11/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 PROYECTO LIFTED          20/11/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 PROYECTO LIFTED          21/11/2024    9 LÓPEZ NIETO, ALVARO         4,00  25,000     0,00   0,00     100,00
+   1 PROYECTO LIFTED          22/11/2024    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 REGULARIZACION REMOTA BI 28/02/2025   70 FERNANDEZ SOBRINO, ANGEL  -30,00  25,000     0,00   0,00    -750,00
+                                                                    __________         ________ ______ __________
+                                                                        532,00             0,00   0,00  13.300,00
+
+                                                                        Total Hoja Coste..........      28.145,22
+
+                                                                        Total Presupuestado.......      46.173,00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                    Pág.     6

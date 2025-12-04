@@ -1,0 +1,63 @@
+   Hoja de Coste Nº 230583
+
+ INSTALACIONES ELEC. EGARA, SL                                                                                      jueves, 20 de marzo de 2025
+
+      Cliente     230 AD-TECH IBERICA, SL                                  Responsable
+      Desde Fecha  19/09/2024      Hasta Fecha  20/03/2025                 Valoración Coste
+      Descripción PUESTA EN MARCHA BIBLAO LIFTED NOVORDISK
+                  Importe Presupuesto --> 4.160,00€
+                  Importe Administración --> 5.739,00€
+
+_________________________________________________M A T E R I A L_________________________________________________
+Referencia       Descripción                              Fecha         Cantidad          Precio         Importe
+_________________________________________________________________________________________________________________
+                 GASTOS VARIOS (DIETAS, HOTEL...)         28/02/2025        1,00       1.442,250        1.442,25
+                 KILOMETROS                               28/02/2025    1.200,00           0,250          300,00
+                                                                     ___________                 _______________
+                                                                        1.201,00                        1.742,25
+
+_____________________________________________M A N O   D E   O B R A_____________________________________________
+Operación                     Fecha      Operario                        Cant.  Precio   Dietas Despl.    Importe
+_________________________________________________________________________________________________________________
+   1 ASISTENCIA REMOTA BILBAO 28/02/2025   70 FERNANDEZ SOBRINO, ANGEL   30,00  25,000     0,00   0,00     750,00
+   1 General                  13/02/2025    9 LÓPEZ NIETO, ALVARO        10,00  25,000     0,00   0,00     250,00
+   1 General                  14/02/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  15/02/2025    9 LÓPEZ NIETO, ALVARO         7,00  25,000     0,00   0,00     175,00
+   1 General                  17/02/2025    9 LÓPEZ NIETO, ALVARO        10,00  25,000     0,00   0,00     250,00
+   1 General                  18/02/2025    9 LÓPEZ NIETO, ALVARO        10,00  25,000     0,00   0,00     250,00
+   1 General                  19/02/2025    9 LÓPEZ NIETO, ALVARO        10,00  25,000     0,00   0,00     250,00
+   1 General                  20/02/2025    9 LÓPEZ NIETO, ALVARO        10,00  25,000     0,00   0,00     250,00
+   1 General                  21/02/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+   1 General                  24/02/2025    9 LÓPEZ NIETO, ALVARO        10,00  25,000     0,00   0,00     250,00
+   1 General                  25/02/2025    9 LÓPEZ NIETO, ALVARO        10,00  25,000     0,00   0,00     250,00
+   1 General                  26/02/2025    9 LÓPEZ NIETO, ALVARO        10,00  25,000     0,00   0,00     250,00
+   1 General                  27/02/2025    9 LÓPEZ NIETO, ALVARO        10,00  25,000     0,00   0,00     250,00
+   1 General                  28/02/2025    9 LÓPEZ NIETO, ALVARO        10,00  25,000     0,00   0,00     250,00
+   1 PREP. MATERIAL/VIAJE BIL 12/02/2025    9 LÓPEZ NIETO, ALVARO         8,00  25,000     0,00   0,00     200,00
+                                                                    __________         ________ ______ __________
+                                                                        161,00             0,00   0,00   4.025,00
+
+                                                                        Total Hoja Coste..........       5.767,25
+
+                                                                        Total Presupuestado.......       9.899,00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                    Pág.     1
