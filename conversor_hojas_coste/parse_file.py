@@ -3,7 +3,8 @@ import re
 from openpyxl import Workbook
 from openpyxl.styles import Alignment
 from openpyxl.worksheet.worksheet import Worksheet
-
+from openpyxl.worksheet.table import Table, TableStyleInfo
+from openpyxl.utils import get_column_letter
 
 from material_line import MaterialLine
 from job_line import JobLine
@@ -355,7 +356,7 @@ def ParseFile(
     # Write the material lines
 
     wb = Workbook()
-    ws = wb.active
+    ws: Worksheet = wb.active
     if ws is None:
         raise ValueError("No se pudo crear la hoja de cálculo.")
 
@@ -370,8 +371,8 @@ def ParseFile(
             "Fecha",
             "Cantidad",
             "Precio Coste",
-            "Precio Venta",
             "Importe Coste",
+            "Precio Venta",
             "Importe Venta",
         ]
     )
@@ -387,8 +388,8 @@ def ParseFile(
                 material_line.Fecha,
                 material_line.Cantidad,
                 material_line.PrecioUnitarioCoste,
-                material_line.PrecioUnitarioVenta,
                 material_line.ImporteTotalCoste,
+                material_line.PrecioUnitarioVenta,
                 material_line.ImporteTotalVenta,
             ]
         )
@@ -417,6 +418,21 @@ def ParseFile(
     for cell in ws["E"]:
         cell.number_format = "dd/mm/yyyy"
 
+    table = Table(
+        displayName="materiales", ref="A1:J" + str(len(material_lines) + 1)
+    )
+
+    style = TableStyleInfo(
+        name="TableStyleMedium9",
+        showFirstColumn=False,
+        showLastColumn=False,
+        showRowStripes=True,
+        showColumnStripes=False,
+    )
+
+    table.tableStyleInfo = style
+    ws.add_table(table)
+
     # Write the job lines
 
     ws = wb.create_sheet(title="Mano de Obra")
@@ -432,11 +448,13 @@ def ParseFile(
             "Operario Nombre",
             "Cantidad",
             "Precio Coste",
-            "Precio Venta",
-            "Dietras",
-            "Desplazamiento",
             "Importe Coste",
+            "Dietas Coste",
+            "Desplazamiento Coste",
+            "Precio Venta",
             "Importe Venta",
+            "Dietas Venta",
+            "Desplazamiento Venta",
         ]
     )
 
@@ -452,11 +470,13 @@ def ParseFile(
                 job_line.OperarioNombre,
                 job_line.Cantidad,
                 job_line.PrecioUnitarioCoste,
-                job_line.PrecioUnitarioVenta,
+                job_line.ImporteTotalCoste,
                 job_line.DietasCoste,
                 job_line.DesplazamientoCoste,
-                job_line.ImporteTotalCoste,
+                job_line.PrecioUnitarioVenta,
                 job_line.ImporteTotalVenta,
+                job_line.DietasVenta,
+                job_line.DesplazamientoVenta,
             ]
         )
 
@@ -474,6 +494,8 @@ def ParseFile(
     ws.column_dimensions["L"].width = 14
     ws.column_dimensions["M"].width = 14
     ws.column_dimensions["N"].width = 14
+    ws.column_dimensions["O"].width = 14
+    ws.column_dimensions["P"].width = 14
 
     ws.row_dimensions[1].height = 36
     ws.row_dimensions[1].alignment = Alignment(wrap_text=True)
@@ -481,11 +503,26 @@ def ParseFile(
     # Iterate over all cells in columns H to N and set the number format
 
     for cell in (
-        ws["H"] + ws["I"] + ws["J"] + ws["K"] + ws["L"] + ws["M"] + ws["N"]
+        ws["H"]
+        + ws["I"]
+        + ws["J"]
+        + ws["K"]
+        + ws["L"]
+        + ws["M"]
+        + ws["N"]
+        + ws["O"]
+        + ws["P"]
     ):
         cell.number_format = number_format
 
     for cell in ws["E"]:
         cell.number_format = "dd/mm/yyyy"
+
+    table = Table(
+        displayName="mano_obra",
+        ref="A1:" + get_column_letter(ws.max_column) + str(ws.max_row),
+    )
+
+    ws.add_table(table)
 
     wb.save(filename)

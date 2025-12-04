@@ -61,5 +61,7 @@ def juntar_ot_en_workbook(
         + ws_mano_obra["L"]
         + ws_mano_obra["M"]
         + ws_mano_obra["N"]
+        + ws_mano_obra["O"]
+        + ws_mano_obra["P"]
     ):
         cell.number_format = number_format
